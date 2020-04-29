@@ -18,6 +18,7 @@ var html = `
 <html>
 <head>
   <meta charset="utf-8">
+  <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/Apocalypsor/goindex-backup@master/themes/favicon.png"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
   <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/Apocalypsor/goindex-backup@${authConfig.version}/themes/${authConfig.theme}/app.js"></script>
